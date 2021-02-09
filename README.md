@@ -19,7 +19,7 @@
 <!-- 🚧🚧 Em construção 🚧🚧 -->
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-sobre-o-projeto">Sobree</a> •
  <a href="#️-status">Status</a> •
  <a href="#️-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
