@@ -52,7 +52,7 @@ CRUD de clientes de um Petshop, utilizando FetchAPI.
 ## 🎨 Layout
 
 - Tela principal
-<img alt="Tela principal" src="./readme/web1.jpg?raw=true">
+<img alt="Tela principal" src="./readme_imgs/web1.jpg?raw=true">
 
 ---
 
